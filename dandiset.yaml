@@ -5,8 +5,17 @@
 access:
 - status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_016124
+    name: Brain Imaging Data Structure (BIDS)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 381654798
+  numberOfFiles: 4
+  schemaKey: AssetsSummary
+  species: []
+  variableMeasured: []
 citation: Ng, Lydia (2021) Allen Mouse Common Coordinate Framework - Average Brain
   Template (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000066/draft
 contributor:
