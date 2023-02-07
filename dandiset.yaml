@@ -2,6 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000066
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.0/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -17,7 +18,7 @@ assetsSummary:
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
-citation: Ng, Lydia (2022) Allen Mouse Common Coordinate Framework - Average Brain
+citation: Ng, Lydia (2023) Allen Mouse Common Coordinate Framework - Average Brain
   Template (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000066/draft
 contributor:
 - identifier: 0000-0002-7499-3514
@@ -45,13 +46,21 @@ description: 'The reference space or brain template was constructed as a populat
 
   The axes the average template volume is a +X=Posterior, +Y=Inferior(Ventral) and
   +Z=Right frame with the origin at the corner of the volume.'
+ethicsApproval: []
 id: DANDI:000066/draft
 identifier: DANDI:000066
+keywords: []
+license:
+- spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000066/versions/draft/assets/
 name: Allen Mouse Common Coordinate Framework - Average Brain Template
-repository: https://dandiarchive.org/
+protocol: []
+relatedResource: []
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
+studyTarget: []
 url: https://dandiarchive.org/dandiset/000066/draft
 version: draft
+wasGeneratedBy: []
