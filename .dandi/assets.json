@@ -5,7 +5,7 @@
 "blob":
 "9412b7fc-b8b8-4357-a0c5-b2b6a444b0e5",
 "created":
-"2021-07-03T04:23:18.524449+00:00",
+"2021-07-03T04:23:18.524449Z",
 "metadata":
 {
 "@context":
@@ -81,7 +81,7 @@
 ]
 },
 "modified":
-"2021-08-05T18:52:48.761300+00:00",
+"2021-08-05T18:52:48.761300Z",
 "path":
 "derivatives/templatecreator/average_template_10.nii.gz",
 "size":
@@ -93,7 +93,7 @@
 "blob":
 "10998707-1470-4180-ba3c-30d7cafab7ad",
 "created":
-"2021-07-03T04:23:18.158015+00:00",
+"2021-07-03T04:23:18.158015Z",
 "metadata":
 {
 "@context":
@@ -169,7 +169,7 @@
 ]
 },
 "modified":
-"2021-08-05T18:52:48.662913+00:00",
+"2021-08-05T18:52:48.662913Z",
 "path":
 "derivatives/templatecreator/average_template_100.nii.gz",
 "size":
@@ -181,7 +181,7 @@
 "blob":
 "09965443-5f92-42c0-b0e9-1b9168ef902a",
 "created":
-"2021-07-03T04:23:18.400292+00:00",
+"2021-07-03T04:23:18.400292Z",
 "metadata":
 {
 "@context":
@@ -257,7 +257,7 @@
 ]
 },
 "modified":
-"2021-08-05T18:52:48.730446+00:00",
+"2021-08-05T18:52:48.730446Z",
 "path":
 "derivatives/templatecreator/average_template_25.nii.gz",
 "size":
@@ -269,7 +269,7 @@
 "blob":
 "47210e31-7e86-4a9d-bcad-413825c4250a",
 "created":
-"2021-07-03T04:23:18.283227+00:00",
+"2021-07-03T04:23:18.283227Z",
 "metadata":
 {
 "@context":
@@ -345,7 +345,7 @@
 ]
 },
 "modified":
-"2021-08-05T18:52:48.699494+00:00",
+"2021-08-05T18:52:48.699494Z",
 "path":
 "derivatives/templatecreator/average_template_50.nii.gz",
 "size":
